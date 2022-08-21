@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "telegramBot/1.0.0": {
+      "bot/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "6.2.3",
           "Telegram.Bot": "18.0.0"
         },
         "runtime": {
-          "telegramBot.dll": {}
+          "bot.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -84,7 +84,7 @@
     }
   },
   "libraries": {
-    "telegramBot/1.0.0": {
+    "bot/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nuriddin/Desktop/MyApp/telegramBot/telegramBot.csproj": {}
+    "/home/nuriddin/Desktop/bot/bot.csproj": {}
   },
   "projects": {
-    "/home/nuriddin/Desktop/MyApp/telegramBot/telegramBot.csproj": {
+    "/home/nuriddin/Desktop/bot/bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nuriddin/Desktop/MyApp/telegramBot/telegramBot.csproj",
-        "projectName": "telegramBot",
-        "projectPath": "/home/nuriddin/Desktop/MyApp/telegramBot/telegramBot.csproj",
+        "projectUniqueName": "/home/nuriddin/Desktop/bot/bot.csproj",
+        "projectName": "bot",
+        "projectPath": "/home/nuriddin/Desktop/bot/bot.csproj",
         "packagesPath": "/home/nuriddin/.nuget/packages/",
-        "outputPath": "/home/nuriddin/Desktop/MyApp/telegramBot/obj/",
+        "outputPath": "/home/nuriddin/Desktop/bot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nuriddin/.nuget/NuGet/NuGet.Config"
@@ -42,7 +42,7 @@
               "target": "Package",
               "version": "[6.2.3, )"
             },
-            "Telegram.Bot": {
+            "telegram.bot": {
               "target": "Package",
               "version": "[18.0.0, )"
             }
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }

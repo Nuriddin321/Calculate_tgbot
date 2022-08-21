@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fi4qbM9W1rYhdWRQBTYgOqGZt5jUpD2eUJORdsd9XXZIUKdTAbTugjO63smPWqsEqf+49GDt9nc7giJsrJY3Ww==",
+  "dgSpecHash": "38Zkzu1Xmanwl1bYxInvBuHs5yOrDsW9xi2Z6EqQR0z6pZXixEVc7EP+UIZpBRyR0lJ+vnDvGzLRtz8yO2ZeHg==",
   "success": true,
-  "projectFilePath": "/home/nuriddin/Desktop/MyApp/telegramBot/telegramBot.csproj",
+  "projectFilePath": "/home/nuriddin/Desktop/bot/bot.csproj",
   "expectedPackageFiles": [
     "/home/nuriddin/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/nuriddin/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
